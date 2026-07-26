@@ -6,3 +6,4 @@
 *_accessKeys.csv
 *.csv:Zone.Identifier
 *Zone.Identifier*
+*.tfvars
