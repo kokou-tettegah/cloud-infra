@@ -2,3 +2,7 @@
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
+*.csv
+*_accessKeys.csv
+*.csv:Zone.Identifier
+*Zone.Identifier*
